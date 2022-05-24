@@ -14,6 +14,7 @@
 		580BC7E52836F90300B3591D /* SoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 580BC7E32836F90300B3591D /* SoundBoard.xcdatamodeld */; };
 		580BC7E72836F90500B3591D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 580BC7E62836F90500B3591D /* Assets.xcassets */; };
 		580BC7EA2836F90500B3591D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 580BC7E82836F90500B3591D /* LaunchScreen.storyboard */; };
+		580BC7F22837118E00B3591D /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 580BC7F12837118E00B3591D /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		580BC7E62836F90500B3591D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		580BC7E92836F90500B3591D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		580BC7EB2836F90500B3591D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		580BC7F12837118E00B3591D /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				580BC7DC2836F90300B3591D /* SceneDelegate.swift */,
 				580BC7DE2836F90300B3591D /* ViewController.swift */,
 				580BC7E02836F90300B3591D /* Main.storyboard */,
+				580BC7F12837118E00B3591D /* SoundViewController.swift */,
 				580BC7E62836F90500B3591D /* Assets.xcassets */,
 				580BC7E82836F90500B3591D /* LaunchScreen.storyboard */,
 				580BC7EB2836F90500B3591D /* Info.plist */,
@@ -145,6 +148,7 @@
 				580BC7DF2836F90300B3591D /* ViewController.swift in Sources */,
 				580BC7DB2836F90300B3591D /* AppDelegate.swift in Sources */,
 				580BC7DD2836F90300B3591D /* SceneDelegate.swift in Sources */,
+				580BC7F22837118E00B3591D /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
